@@ -195,10 +195,10 @@ function SocialConnect() {
         <Sub>Hey! Follow us on Social Media</Sub>
         <Catchy>Stay updated with content around the world of <br/> Blockchain economy by following us on social media </Catchy>
         <SocialCon>
-          <SocialLinkCon><SocialL1 to='#'><RiFacebookBoxFill/><Tet>facebook</Tet></SocialL1></SocialLinkCon>
+          <SocialLinkCon><SocialL1 to='#'><RiFacebookBoxFill/><Tet>Facebook</Tet></SocialL1></SocialLinkCon>
           <SocialLinkCon> <SocialL2 to='#'><AiFillInstagram/><Tet>Instagram</Tet></SocialL2></SocialLinkCon>
-          <SocialLinkCon><SocialL3 to='#'><Tet>twitter</Tet> <FaTwitter className='icon'/ ></SocialL3></SocialLinkCon>
-          <SocialLinkCon><SocialL4 to='#'><BsYoutube className='icon' /><Tet>YoutubeTv</Tet> </SocialL4></SocialLinkCon>
+          <SocialLinkCon><SocialL3 to='#'><Tet>Twitter</Tet> <FaTwitter className='icon'/ ></SocialL3></SocialLinkCon>
+          <SocialLinkCon><SocialL4 to='#'><BsYoutube className='icon' /><Tet>Youtube</Tet> </SocialL4></SocialLinkCon>
            
         </SocialCon>
     </Container>
